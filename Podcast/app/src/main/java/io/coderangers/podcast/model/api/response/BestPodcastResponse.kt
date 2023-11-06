@@ -3,7 +3,7 @@ package io.coderangers.podcast.model.api.response
 
 import com.google.gson.annotations.SerializedName
 
-data class PodcastList(
+data class BestPodcastResponse(
     @SerializedName("has_next")
     val hasNext: Boolean,
     @SerializedName("has_previous")
