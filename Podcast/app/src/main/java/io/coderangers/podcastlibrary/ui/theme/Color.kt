@@ -1,4 +1,4 @@
-package io.coderangers.podcast.ui.theme
+package io.coderangers.podcastlibrary.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

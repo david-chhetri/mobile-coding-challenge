@@ -1,4 +1,4 @@
-package io.coderangers.podcast.model.api
+package io.coderangers.podcastlibrary.model.api
 
 
 sealed class NetworkResult<T>(
